@@ -29,7 +29,7 @@ Enable connection between Docker-host and Jenkins
      - Copy from: `Deploy_on_Tomcat_Server`
      
    - *Source Code Management:*
-      - Repository: `https://github.com/kypamourya13/hello-world`
+      - Repository: `https://github.com/kypamourya13/hello-world.git`
       - Branches to build : `*/master`  
    - *Poll SCM* :      - `* * * *`
 
